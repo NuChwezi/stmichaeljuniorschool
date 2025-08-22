@@ -111,6 +111,11 @@ header {
   padding-left:5px;
 }
 
+/* for li in main content */
+.content li {
+    margin-left: 18px;
+}
+
 .menu-item {
   display: flex;
   align-items: center;
